@@ -1,4 +1,4 @@
-// Dificultad: easy
+// Difficulty: easy
 // Variable nums
 var nums = [1,1,2]
 
